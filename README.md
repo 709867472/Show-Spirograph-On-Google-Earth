@@ -1,5 +1,5 @@
 Wikipedia: "Spirograph is a geometric drawing toy that produces mathematical roulette curves of the variety technically known as hypotrochoids and epitrochoids. It was developed by British engineer Denys Fisher and first sold in 1965."<br/>
-We can use these equations to calculate the cordinate of each point on Spirograph:<br/>
+We can use these equations to calculate the coordinate of each point on Spirograph:<br/>
     x(t) = (R+r)*cos((r/R)*t) - a*cos((1+r/R)*t)<br/>
     y(t) = (R+r)*sin((r/R)*t) - a*sin((1+r/R)*t)<br/>
     
